@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug 13 13:40:27 2020
-
-@author: mhabayeb
-"""
-
 # Make a prediction with weights
 # Both inputs are lists
 def predict(row, weights):

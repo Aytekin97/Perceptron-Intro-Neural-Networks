@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Aug  9 23:28:27 2020
-
-
-Load the data
-"""
 from random import seed
 from random import randrange
 from csv import reader

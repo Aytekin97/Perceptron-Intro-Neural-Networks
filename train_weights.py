@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug 13 14:46:00 2020
-"""
 # Make a prediction with weights
 def predict(row, weights):
 	activation = weights[0]
